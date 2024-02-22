@@ -100,7 +100,7 @@ clear overview of the functionality of the machine which helps defining
 the states and transitions. A table is usually more suitable for design
 of digital circuits which aren’t the focus of this document.
 
-## ![](media/image3.png)
+## ![](https://github.com/wiKI-admin/Wiki_pages/blob/main/state_diagram.drawio%20(1).png)
 
 ## Use of FSM in software programming
 
