@@ -138,7 +138,7 @@ required to support up to 128 VLs. For less critical data communication
 needs, AFDX allows Sub Virtual Links. These are data queues that share a
 single VL and cannot distribute its messages across different VLs.
 
-> ![](media/image5.png)
+> ![](Images/Picture2.png)
 
 **4.3 AFDX Switch**
 
@@ -154,7 +154,7 @@ all switch operations and service health and network status data to the
 subsystems. AFDX Switch plays the most important role for the shaped
 traffic feature of the AFDX network.  
 
-> ![](media/image6.png)
+> ![](Images/Picture3.png)
 
 ## AFDX Frame Structure
 
@@ -177,6 +177,8 @@ following seven layers:
 
 AFDX is also an open standard, inspired with these layered models and
 common protocols.
+![](Images/Picture4.png)
+![](Images/Picture5.png)
 
 ![](media/image7.JPG)
 
