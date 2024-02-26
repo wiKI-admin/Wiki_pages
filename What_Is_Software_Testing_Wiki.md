@@ -22,29 +22,29 @@ per year if they have good testing and quality assurance techniques.
 
 Due to the following advantages, software testing is important,
 
--   Defects can be identified early
+  - Defects can be identified early
 
--   Improvement in the quality of the software
+  - Improvement in the quality of the software
 
--   Increased customer satisfaction
+  - Increased customer satisfaction
 
--   Helps with scalability
+  - Helps with scalability
 
--   Saves time and money
+  - Saves time and money
 
 Early testing makes the software bug free before it is launched in the
 market for users. The sooner development team gets the feedback, the
 sooner they address the issues such as,
 
--   Architectural flaws
+  - Architectural flaws
 
--   Poor Design decisions
+  - Poor Design decisions
 
--   Incorrect functionality
+  - Incorrect functionality
 
--   Security Vulnerabilities
+  - Security Vulnerabilities
 
--   Scalability issues
+  - Scalability issues
 
 **Type of software testing**
 
@@ -63,7 +63,7 @@ Software testing can broadly be classified into 3 types.
     scalability, portability, stress, etc.
 
 3.  **Maintenance Testing:** It is the process of changing, modifying,
-    and updating software according to the customer's need. It involves
+    and updating software according to the customer’s need. It involves
     regressive testing which verifies that the recent change in code has
     not adversely affected the other developed parts of the code.
 
@@ -86,10 +86,10 @@ Software testing can further be classified into 2 more way of testing:
 
 Software testing techniques can majorly be classified into,
 
-1.  **Back-box testing:** It is a testing approach where the tester does
-    > not need to know the internal working of the code for the software
-    > development. The tester just needs to have knowledge of how the
-    > software should perform by giving a particular command.
+1.  > **Back-box testing:** It is a testing approach where the tester
+    > does not need to know the internal working of the code for the
+    > software development. The tester just needs to have knowledge of
+    > how the software should perform by giving a particular command.
 
 2.  **White-box testing:** In contrast to Black-box testing, this
     testing approach required the tester to have access and knowledge of
@@ -97,9 +97,10 @@ Software testing techniques can majorly be classified into,
     functionality according to the given specification.
 
 There is one more technique for software testing which is a hybrid model
-of black and white box testing. This method is known as [Grey-box
-testing]{.underline}, where the tester needs to know the implementation
-of source code but need not to be an expert in coding.
+of black and white box testing. This method is known as
+<span class="underline">Grey-box testing</span>, where the tester needs
+to know the implementation of source code but need not to be an expert
+in coding.
 
 **Different Levels of Software Testing**
 
@@ -118,6 +119,6 @@ Software level testing can be classified into 4 levels,
     bugs in the source code.
 
 4.  **Acceptance Testing:** This level of testing is done to check the
-    software\'s acceptability. The aim of this test level is to
-    determine whether the software is as per the business standard, and
-    if it is ready to be deployed in the market.
+    software's acceptability. The aim of this test level is to determine
+    whether the software is as per the business standard, and if it is
+    ready to be deployed in the market.
