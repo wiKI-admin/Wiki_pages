@@ -120,7 +120,7 @@ Subsystems. This interface exports an application program interface
 (API) to the various Avionics Subsystems, enabling them to communicate
 with each other through a simple message transfer interface.
 
-> ![](Images/Picture1.png)
+> ![](AFDX/Picture1.png)
 
 **4.2 AFDX Virtual Links**
 
@@ -138,7 +138,7 @@ required to support up to 128 VLs. For less critical data communication
 needs, AFDX allows Sub Virtual Links. These are data queues that share a
 single VL and cannot distribute its messages across different VLs.
 
-> ![](Images/Picture2.png)
+> ![](AFDX/Picture2.png)
 
 **4.3 AFDX Switch**
 
@@ -154,7 +154,7 @@ all switch operations and service health and network status data to the
 subsystems. AFDX Switch plays the most important role for the shaped
 traffic feature of the AFDX network.  
 
-> ![](Images/Picture3.png)
+> ![](AFDX/Picture3.png)
 
 ## AFDX Frame Structure
 
@@ -177,5 +177,5 @@ following seven layers:
 
 AFDX is also an open standard, inspired with these layered models and
 common protocols.
-![](Images/Picture4.png)
-![](Images/Picture5.png)
+![](AFDX/Picture4.png)
+![](AFDX/Picture5.png)
