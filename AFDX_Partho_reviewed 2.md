@@ -179,7 +179,3 @@ AFDX is also an open standard, inspired with these layered models and
 common protocols.
 ![](Images/Picture4.png)
 ![](Images/Picture5.png)
-
-![](media/image7.JPG)
-
-### ![](media/image8.png)5.1 **AFDX Ethernet Frame Structure**
