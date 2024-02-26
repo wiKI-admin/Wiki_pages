@@ -132,17 +132,17 @@ Following are the common cases for debugging:
 Debugging Python {#debugging-python .Akkodis-Überschrift-2}
 ----------------
 
-![](media/image3.png){width="3.904166666666667in"
-height="0.8854166666666666in"}PyCharm already comes with a debugger when
+![](Images/Picture1.png)
+PyCharm already comes with a debugger when
 you download the program and the python version. In vs Code you need to
 install the python extension as well:
 
-![](media/image4.png){width="4.104861111111111in"
-height="0.38958333333333334in"}Then you can set a breakpoint at a line
+![](Images/Picture2.png)
+Then you can set a breakpoint at a line
 where you want the debugger to pause the execution of the code:
 
-![](media/image5.png){width="1.8958333333333333in"
-height="0.8638888888888889in"}And start the debugger:
+![](Images/Picture3.png)
+And start the debugger:
 
 The debugger is now giving you a list of all variable states and you can
 check the code line by line for the cause of the exception.
